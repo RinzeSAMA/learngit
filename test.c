@@ -2,6 +2,6 @@
 
 int main(){
     int a = 12345;
-    printf(a+65535);
+    printf(a+655);
     return 0;
 }
